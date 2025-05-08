@@ -8,6 +8,8 @@ class PageViewCubitScreen extends StatelessWidget {
 
   final _controller = PageController();
 
+
+
   @override
   Widget build(BuildContext context) {
     return BlocProvider(

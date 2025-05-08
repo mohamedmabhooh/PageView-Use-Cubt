@@ -4,4 +4,8 @@ class OnboardingCubit extends Cubit<int> {
   OnboardingCubit() : super(0);
 
   void changePage(int pageIndex) => emit(pageIndex);
+
+
+
+
 }
